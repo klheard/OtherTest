@@ -1,5 +1,5 @@
 package test
 
-struct Ship {
+type Ship struct {
 	Name: string
 }

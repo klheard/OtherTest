@@ -1,5 +1,5 @@
 package other
 
-struct Car {
+type Car struct {
 	Model: string
 }
