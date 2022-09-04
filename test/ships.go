@@ -1,5 +1,5 @@
 package test
 
 type Ship struct {
-	Name: string
+	Name string
 }
