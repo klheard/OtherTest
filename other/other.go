@@ -7,3 +7,7 @@ type Car struct {
 type Plan struct {
 	Model string
 }
+
+type SpaceShip struct {
+	Model string
+}
