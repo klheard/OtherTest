@@ -5,5 +5,10 @@ type Ship struct {
 }
 
 type Boat struct {
-	Name string		
+	Name string
+}
+
+type CruiseShip struct {
+	Ship
+	Boat
 }

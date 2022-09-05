@@ -1,3 +1,3 @@
-module github.com/klheard/OtherTest/v2
+module github.com/klheard/OtherTest/v3
 
 go 1.19
